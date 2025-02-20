@@ -1,16 +1,25 @@
-# cred_app
+# CRED OPERATION APP
 
-A new Flutter project.
+Flutter application for user management.
 
-## Getting Started
+It is having basic CRUD methods like CreateUser, GetUser, GetAllUsers, UpdateUser and DeleteUser.
 
-This project is a starting point for a Flutter application.
+Using riverpod for mangaing the state and follow clean architecture with repository pattern.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## APK File
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can download the APK file for the app using the link below:
+
+[Download APK](https://drive.google.com/file/d/1GVi3gFtuJf7h6vq3lkz28A0hH7VeMii-/view?usp=sharing)
+
+
+## App Screenshot
+
+Here are the screenshots of the app:
+
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+![Screenshot 4](screenshots/4.png)
+![Screenshot 5](screenshots/5.png)
