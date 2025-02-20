@@ -18,7 +18,7 @@ You can download the APK file for the app using the link below:
 
 Here are the screenshots of the app:
 
-![Screenshot 1](https://github.com/pallavipradhan5578/CRUD_APP/screenshots/1.png)
+![Screenshot 1](https://github.com/pallavipradhan5578/cred_app/screenshots/1.png)
 ![Screenshot 2](screenshots/2.png)
 ![Screenshot 3](screenshots/3.png)
 ![Screenshot 4](screenshots/4.png)
